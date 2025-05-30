@@ -36,10 +36,15 @@ header{
 }
 
 .left{
+    padding-top: 30px;
+}
+
+.left a{
     float: left;
     color: black;
-   
+    padding: 10px;
 }
+
 .right{
     float: right;
     width: 40%;
